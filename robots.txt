@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://isozaopo.github.io/Hnk/sitemap_index.txt
+Sitemap: https://isozaopo.github.io/XqY/sitemap_index.txt
+Sitemap: https://isozaopo.github.io/YXy/sitemap_index.txt
+Sitemap: https://isozaopo.github.io/xHr/sitemap_index.txt
